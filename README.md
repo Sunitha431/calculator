@@ -1,7 +1,7 @@
-#JavaScript Calculator
+🧮 JavaScript Calculator
 
-A simple and elegant Calculator built with HTML, CSS, and JavaScript. This project provides basic arithmetic operations like addition, subtraction, multiplication, and division with a responsive design.
-Features
+A simple and elegant calculator built using HTML, CSS, and JavaScript.
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division, featuring a responsive design suitable for all devices. The calculator also includes clear (AC) and delete (DE) functionality, as well as decimal number support for precise calculations.
 
 Responsive design for all devices
 
@@ -11,22 +11,22 @@ Clear (AC) and delete (DE) buttons
 
 Decimal numbers support
 
-Easy-to-use and visually appealing interface
+Clean, easy-to-use interface
 
 🛠️ Technologies Used
 
-HTML - Structure of the calculator
+HTML – Structure of the calculator
 
-CSS - Styling with modern design and effects
+CSS – Styling with modern design and effects
 
-JavaScript - Functionality and calculations
----
+JavaScript – Functionality and calculations
 
 ## 🚀 Live Demo
 
 Click to view the animation:
 
-👉 **https://sunitha431.github.io/calculator/**
+👉 
+**https://sunitha431.github.io/calculator/**
 
 ---
 
