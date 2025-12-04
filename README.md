@@ -1,4 +1,5 @@
-JavaScript Calculator
+#JavaScript Calculator
+
 A simple and elegant Calculator built with HTML, CSS, and JavaScript. This project provides basic arithmetic operations like addition, subtraction, multiplication, and division with a responsive design.
 Features
 
